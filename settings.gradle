@@ -3,4 +3,4 @@ pluginManagement {
 		gradlePluginPortal()
 	}
 }
-rootProject.name = 'Spring_AOP_POC'
+rootProject.name = 'Springboot_AOP_POC'
